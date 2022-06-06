@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Naman Sachdeva
+    Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Naman Sachdeva
 </h1>
 
 <p align="center">
