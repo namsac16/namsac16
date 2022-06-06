@@ -3,15 +3,12 @@
 </h1>
 
 <p align="center">
-<<<<<<< HEAD
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
         Computer%20Science%20Undergraduate;
         Coding%20Enthusiast;
         Always%20Learning%20New%20Things
         &center=true&width=500&height=75&color=#00FECA&vCenter=true">
-=======
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Development%20Engineering%20Junior;Flutter%20App%20Developer;Machine%20Learning%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=45&color=#00FECA&vCenter=true">
->>>>>>> 4ace5429d3d028a876e26c79cb6a73576ffd8340
   </a>
 </p>
 
