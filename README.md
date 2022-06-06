@@ -1,12 +1,11 @@
 <h1 align="center">
-    Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Naman Sachdeva
+    Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Naman Sachdeva
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
-        Software%20Development%20Engineering%20Junior;
-        Flutter%20App%20Developer;
-        Machine%20Learning%20Enthusiast;
+        Computer%20Science%20Undergraduate;
+        Coding%20Enthusiast;
         Always%20Learning%20New%20Things
         &center=true&width=500&height=75&color=#00FECA&vCenter=true">
   </a>
