@@ -3,11 +3,15 @@
 </h1>
 
 <p align="center">
+<<<<<<< HEAD
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
         Computer%20Science%20Undergraduate;
         Coding%20Enthusiast;
         Always%20Learning%20New%20Things
         &center=true&width=500&height=75&color=#00FECA&vCenter=true">
+=======
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Development%20Engineering%20Junior;Flutter%20App%20Developer;Machine%20Learning%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=45&color=#00FECA&vCenter=true">
+>>>>>>> 4ace5429d3d028a876e26c79cb6a73576ffd8340
   </a>
 </p>
 
@@ -24,7 +28,6 @@
 👦🏻 About Me
 </h2>
 
-<h3> 
 👨🏻‍🎓 Bachelor's of Technology in Computer Science Engineering.<br>
 🌱 Learning More About Machine Learning and App Development.<br>
 ⏰ Hobbies include Cricket 🏏, Music 🎧, Badminton 🏸, & Coding 👩🏻‍💻.<br>
@@ -32,11 +35,9 @@
 📧 Feel free to reach out to me for talking Coding & Cricket.<br>
 🤝🏻 Open for Collaborations.<br>
 🗣  English : Fluent | Hindi : Native
-</h3>
 <br>
 
 <h2>👩🏻‍💻 Tech Stack</h2>
-<br>
 <h3 align="center">💻Programming Languages</h3>
 
 <p align="center">
@@ -45,7 +46,6 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-006177.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-<br>
 
 <h3 align="center">📱 Development</h3>
 
@@ -53,7 +53,6 @@
   <img align="center" alt="Dart" src="https://img.shields.io/badge/dart-03589C.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/flutter-54C5F8.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
-<br>
 
 <h3 align="center">🛢 Databases</h3>
 
@@ -61,7 +60,6 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
-<br>
 
 <h3 align="center">🛠 Tools & Technologies</h3>
 <p align="center">
@@ -75,7 +73,6 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
-<br>
 
 <h2>🙋🏻‍♂️Contact Me</h2>
 <br>
